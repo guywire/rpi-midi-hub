@@ -1,3 +1,4 @@
 #!/bin/bash
 
-python /etc/rpi-midi-hub/midiconnect.py
+#this needs to run in python 2 as written
+python2 /etc/rpi-midi-hub/midiconnect.py
